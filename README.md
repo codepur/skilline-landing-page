@@ -1,6 +1,6 @@
 # Skilline Landing Page
 Free landing page template built on top of TailwindCSS
-
+Live links :- https://codepur.github.io/skilline-landing-page/
 ## Built with:
 - Tailwind CSS ^2.0
 - Alpine JS ^2.*
